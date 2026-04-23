@@ -1,0 +1,73 @@
+# 🍕 Pizza Sales Performance Dashboard
+
+![Dashboard Preview](Screenshot%202026-04-23%20033313.png)
+
+## 📊 Project Overview
+
+This Power BI dashboard provides a comprehensive analysis of pizza sales performance for a retail food business. The dashboard helps stakeholders understand sales trends, product performance, and customer ordering patterns across different time periods, pizza categories, and sizes.
+
+## 🎯 Key Business Questions Answered
+
+- What are the daily and monthly sales trends?
+- Which pizzas generate the highest revenue?
+- Which pizzas are the best sellers and worst sellers by quantity?
+- How do different pizza categories and sizes perform?
+- When are peak order days and months?
+
+## 📈 Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| **Total Revenue** | 817.86K |
+| **Average Order Value** | 38.31 |
+| **Total Orders** | ~21K |
+| **Total Pizzas Sold** | ~50K |
+| **Avg Pizzas Per Order** | 2.32 |
+
+## 📅 Insights Summary
+
+### Time-Based Trends
+- **Peak Days**: Orders are highest on weekends, particularly **Friday and Saturday evenings**
+- **Peak Months**: Maximum orders occur in **January and July**
+
+### Category Performance
+- **Top Category**: Classic Pizza contributes to maximum sales (highest revenue share)
+- **Top Size**: Large size pizzas generate the highest sales volume
+
+### Product Analysis
+
+#### Top 5 Pizzas by Revenue
+1. The Thai Chicken
+2. The Barbecue Chicken
+3. The California Chicken
+4. The Classic Deluxe
+5. The Spinach Supreme
+
+#### Top 5 Pizzas by Quantity
+1. The Classic Deluxe
+2. The Barbecue Chicken
+3. The Hawaiian
+4. The Pepperoni
+5. The Thai Chicken
+
+#### Bottom 5 Pizzas by Quantity
+1. The Spinach Supreme
+2. The Calabrese
+3. The Mediterranean
+4. The Brie Carre
+5. (Additional variety)
+
+## 📊 Dashboard Pages
+
+| Page | Content |
+|------|---------|
+| **Home / Best-Worst Seller** | Overview of top/bottom performing pizzas and key sales metrics |
+| **Detailed Analysis** | Daily trends, monthly trends, and category/size breakdowns |
+
+## 🛠️ Tools Used
+
+- **Power BI Desktop** - Data visualization and dashboard creation
+- **Power BI Service** - Publishing and sharing (if applicable)
+- **Data Source** - Pizza sales transactional database
+
+## 📁 Repository Contents
